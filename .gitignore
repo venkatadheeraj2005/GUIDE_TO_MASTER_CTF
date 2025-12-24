@@ -10,3 +10,4 @@ token.txt
 *.ovpn
 output.txt
 ~
+*.pub
