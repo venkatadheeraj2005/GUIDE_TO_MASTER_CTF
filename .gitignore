@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.log
+*.out
+*.zip
+*.tar
+*.gz
+rockyou.txt
+token.txt
+*.ovpn
+output.txt
+~
